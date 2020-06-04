@@ -1,0 +1,13 @@
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.exe
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.deps.json
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.runtimeconfig.json
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.runtimeconfig.dev.json
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.dll
+E:\Projects\SahTestCons\SahTestCons\bin\Debug\netcoreapp3.1\SahTestCons.pdb
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.csprojAssemblyReference.cache
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.csproj.CoreCompileInputs.cache
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.AssemblyInfoInputs.cache
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.AssemblyInfo.cs
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.dll
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.pdb
+E:\Projects\SahTestCons\SahTestCons\obj\Debug\netcoreapp3.1\SahTestCons.genruntimeconfig.cache
