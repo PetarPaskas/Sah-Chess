@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqG1rJw+L3s8S/H3lkK+tDnz0BBGrxmiTtFtyiwROlUTgte2j3KrPChsdoYzv2lrK/hLf93Upjzgh+UZllClWQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\SahTestCons\\SahTestCons\\SahTestCons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
